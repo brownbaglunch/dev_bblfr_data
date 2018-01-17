@@ -2,7 +2,7 @@ var data = {
     "speakers": [
         {
             "since": "2017-12-02",
-            "name": "David P",foo
+            "name": "David P",
             "bio": "Developer | Evangelist",
             "picture": "https://url.to/picture2.png",
             "websites": [
