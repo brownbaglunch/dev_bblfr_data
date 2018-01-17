@@ -1,50 +1,6 @@
 var data = {
     "speakers": [
         {
-            "since": "2013-02-09",
-            "name": "François S",
-            "bio": "Consultant Java/Scala/&#955; | Manager technique ",
-            "picture": "https://url.to/picture.png",
-            "websites": [
-                {
-                    "name": "Web",
-                    "url": "http://awesome.blog.post/"
-                }
-            ],
-            "location": "Paris, remote",
-            "sessions": [
-                {
-                    "title": "Session 1",
-                    "abstract": "Description 1",
-                    "tags": [
-                        "tag 1",
-                        "tag 2"
-                    ],
-                    "lang": [
-                        "fr",
-                        "en"
-                    ]
-                },
-                {
-                    "title": "Session 2",
-                    "abstract": "Description 2",
-                    "tags": [
-                        "tag 1"
-                    ],
-                    "lang": [
-                        "fr"
-                    ]
-                }
-            ],
-            "cities": [
-                "Paris"
-            ],
-            "contacts": {
-                "twitter": "twittos1",
-                "mail": "email1@domain.com"
-            }
-        },
-        {
             "since": "2017-12-01",
             "name": "David P",
             "bio": "Developer | Evangelist",
